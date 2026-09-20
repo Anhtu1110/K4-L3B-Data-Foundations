@@ -1,5 +1,5 @@
 ---
-doc_id: return-refund-policy
+doc_id: quy-dinh-chung-tra-hang-hoan-tien
 title: Những quy định chung về Trả hàng và Hoàn tiền của Shopee
 audience: buyer
 category: returns-policy
